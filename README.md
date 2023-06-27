@@ -22,6 +22,10 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
+## Contact
+- <a href="https://linkedin.com/in/iasmin-corrêa-rebelo/" target="_blank">Linkedin</a><br>
+- <a href="mailto:iasmin_correa@hotmail.com" target="_blank">iasmin_correa@hotmail.com</a>
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
