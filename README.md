@@ -7,7 +7,7 @@
 ## 🛠 &nbsp;Tech Stack
 
 - Sites institucionais
-- E-commerces: wake commerce | tray commerce | mercado shops | shopify
+- E-commerces: wake commerce | tray commerce | mercado shops
 
   
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
