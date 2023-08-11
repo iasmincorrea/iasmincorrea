@@ -2,12 +2,10 @@
 
 - 🔥 Front-End Developer
 
-- 🔭 I am currently working as a freelancer
-
 ## 🛠 &nbsp;Tech Stack
 
-- Sites institucionais
-- E-commerces: wake commerce | tray commerce | mercado shops
+- E-commerces and Websites
+- Plataformas: wordpress | wake commerce | tray commerce | mercado shops
 
   
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -23,7 +21,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ## Contact
-- <a href="https://linkedin.com/in/iasmin-corrêa-rebelo/" target="_blank">Linkedin</a><br>
+- <a href="https://linkedin.com/in/iasmin-corrêa-rebelo/" target="_blank">linkedin</a><br>
 - <a href="mailto:iasmin_correa@hotmail.com" target="_blank">iasmin_correa@hotmail.com</a>
 
 ## ⚙️ &nbsp;GitHub Analytics
