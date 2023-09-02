@@ -27,7 +27,7 @@ Desenvolvedora front-end com experiência em e-commerces e sites institucionais.
 • <a href="mailto:iasmin_correa@hotmail.com" target="_blank">iasmin_correa@hotmail.com</a>
 
 <h3 align="left">⚙️ <b>GitHub Analytics</b></h3>
-<p align="left">
-<img height="195px" width="49%" src="https://github-readme-stats.vercel.app/api?username=iasmincorrea&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="195px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasmincorrea&layout=compact&langs_count=7&theme=dark"/>
-</p>
+<div align="left">
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=iasmincorrea&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasmincorrea&layout=compact&langs_count=7&theme=dark"/>
+</div>
