@@ -3,12 +3,12 @@
 Desenvolvedora front-end com experiência em e-commerces e sites institucionais.
 
 <h3 align="left">🛠 <b>Tecnologias</b></h3>
-• HTML5 (Semântica / Usabilidade / Acessibilidade / Performance / SEO)
-• CSS3 / SASS / SCSS / LESS / BEM
-• Javascript / jQuery / JSX
-• React
-• React Native (básico)
-• GraphQL
+• HTML5 (Semântica / Usabilidade / Acessibilidade / Performance / SEO)<br>
+• CSS3 / SASS / SCSS / LESS / BEM<br>
+• Javascript / jQuery / JSX<br>
+• React<br>
+• React Native (básico)<br>
+• GraphQL<br>
 • Scriban
 
 <h3 align="left">🛠 <b>Plataformas</b></h3>
